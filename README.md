@@ -17,3 +17,15 @@ S2_Data_Migration/
 │
 └── scripts/
     └── load_csv_to_db.py
+
+## S3 API
+
+This project also includes a FastAPI application to access the KPIs proposed in Stage 1.
+
+## API Structure
+
+```text
+app/
+├── setting.py
+├── db.py
+└── main.py
