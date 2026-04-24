@@ -17,6 +17,7 @@ S2_Data_Migration/
 │
 └── scripts/
     └── load_csv_to_db.py
+```
 
 ## S3 API
 
@@ -29,3 +30,4 @@ app/
 ├── setting.py
 ├── db.py
 └── main.py
+```
