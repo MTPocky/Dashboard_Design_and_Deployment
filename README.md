@@ -17,6 +17,7 @@ S2_Data_Migration/
 │
 └── scripts/
     └── load_csv_to_db.py
+```
 
 ## S3 API
 
@@ -29,3 +30,22 @@ app/
 ├── setting.py
 ├── db.py
 └── main.py
+```
+## S4 Dashboard
+
+This project includes a dashboard created with Plotly Dash to visualize the main salary KPIs.
+
+## Dashboard Structure
+
+```text
+dashboard/
+└── app.py
+```
+## Dashboard Screenshots
+
+![Dashboard Screenshot 1](screenshots/dashboard_1.png)
+
+![Dashboard Screenshot 2](screenshots/dashboard_2.png)
+
+![Dashboard Screenshot 3](screenshots/dashboard_3.png)
+```
